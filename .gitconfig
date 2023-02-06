@@ -1,0 +1,7 @@
+[user]
+	name = Yaroslav
+	email = yorik289@yandex.ru
+[gui]
+	recentrepo = D:/repoGit/test1
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
